@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build output directories
+/dist/
+.vite/
+
+# TypeScript build files
+*.tsbuildinfo
+
+# Ignore lockfiles (if not used globally)
+package-lock.json
+yarn.lock
+
+# SQLite database files
+*.sqlite3
+*.db
+*.db-journal
