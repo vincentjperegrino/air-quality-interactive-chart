@@ -22,7 +22,7 @@ Thumbs.db
 *.sublime-project
 
 # Build output directories
-/dist/
+**/dist/
 .vite/
 
 # TypeScript build files
